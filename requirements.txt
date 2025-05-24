@@ -1,0 +1,9 @@
+
+streamlit
+wordcloud
+matplotlib
+nltk
+scikit-learn
+transformers
+torch
+sentencepiece
