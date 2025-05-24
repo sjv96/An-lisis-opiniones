@@ -1,9 +1,8 @@
-
-streamlit
-wordcloud
-matplotlib
-nltk
-scikit-learn
-transformers
-torch
-sentencepiece
+streamlit==1.35.0
+wordcloud==1.9.3
+matplotlib==3.8.4
+nltk==3.8.1
+scikit-learn==1.4.2
+transformers==4.40.1
+torch==2.2.2
+sentencepiece==0.2.0
